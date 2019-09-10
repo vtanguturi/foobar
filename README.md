@@ -1,3 +1,3 @@
 # foobar
 
-My attempts at the foobar challenges!
+My attempts at the google foobar challenges!
